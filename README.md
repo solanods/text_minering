@@ -1,2 +1,2 @@
-# text_miner
+# text_minering
 String manipulation and filtering
